@@ -1,6 +1,6 @@
 # AdvAnti
 
-An in-dev collection of advanced anti scripts, ranging from anti-kicks to anti-chats.
+An in-dev collection of advanced anti scripts, ranging from anti-kicks to (insert second idea here)
 
 ## Discord
 
