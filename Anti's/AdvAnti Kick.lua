@@ -1,3 +1,10 @@
+--[[
+
+Credits:
+Exunys - for the original idea and basic hookmetamethod layouts
+
+]]
+
 repeat task.wait() until game:IsLoaded()
 getgenv().SendNotifications = true
 
